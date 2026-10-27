@@ -1,4 +1,5 @@
 # UK Bank Customer Analysis Dashboard
+![UK Bank Customer Analysis Dashboard](UK_Bank_Customer_Analysis_Dashboard.jpeg)
 
 ## Project Overview
 An interactive dashboard developed using Microsoft Power BI to explore UK bank customer data and present key business insights.
